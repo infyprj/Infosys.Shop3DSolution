@@ -1,1 +1,7 @@
+@Infosys.Shop3D.WebServices_HostAddress = http://localhost:5236
+
+GET {{Infosys.Shop3D.WebServices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
 
